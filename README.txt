@@ -8,9 +8,9 @@ This Theme is under GPL License. (http://www.opensource.org/licenses/gpl-license
 INSTALL: 
 1. Unpack this archive in your wp-content/themes/ directory.
 2. Go to Admin WordPress and select presentation.
-3. Select Whitespace theme
+3. Select Clusterflock theme
 
-Questions, bugs and others can be emailed me to andrew.simone@gmail.com.
+Questions, bugs and others can be emailed me to andrew.simone@gmail.com, but seriously, don't use this.
 
 Andrew Simone
 andrewsimone.com
